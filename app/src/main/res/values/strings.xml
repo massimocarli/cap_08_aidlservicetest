@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">AIDLServiceTest</string>
+  <string name="chrono_sevice_description">This is a service exposing an AIDL interface</string>
+  <string name="start_chrono">START CHRONO</string>
+  <string name="stop_chrono">STOP CHRONO</string>
+  <string name="reset_chrono">RESET CHRONO</string>
+</resources>
